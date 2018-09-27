@@ -180,6 +180,10 @@ Resource files in the values folder should be __plural__, e.g. `strings.xml`,
 
 These rules will be automatically applied by the link:https://github.com/Wyrmixinc/android-code-style[WyrmixAndroid] codestyle.
 
+== Kotlin language rules
+
+Kotlin code should be styled according to link:https://android.github.io/kotlin-guides/style.html[this guide]
+
 === Don't ignore exceptions
 
 You must never do the following:
