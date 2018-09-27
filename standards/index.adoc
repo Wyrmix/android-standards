@@ -1,0 +1,6 @@
+= The Wyrmix's Android Code Standards
+v1.0, 2017-5-16
+include::include.adoc[]
+
+* <<project-standards.adoc#,Wyrmix Project Standards>>
+* <<code-style.adoc#,Wyrmix File Naming Guidelines and Code Style Standards>>
